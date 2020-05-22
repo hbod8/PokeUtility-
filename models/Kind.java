@@ -1,11 +1,11 @@
 package models;
+
 /**
  * Enumeration class Kind - write a description of the enum class here
  * 
  * @author (your name here)
  * @version (version number or date here)
  */
-public enum Kind
-{
-    SPECIAL, PHYSICAL, NORMAL
+public enum Kind {
+  SPECIAL, PHYSICAL, NORMAL
 }
