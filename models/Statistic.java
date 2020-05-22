@@ -1,4 +1,4 @@
-
+package models;
 /**
  * Enumeration class Statistic - write a description of the enum class here
  * 

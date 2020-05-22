@@ -1,4 +1,4 @@
-
+package models;
 /**
  * Enumeration class Kind - write a description of the enum class here
  * 

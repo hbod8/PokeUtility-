@@ -1,4 +1,4 @@
-
+package models;
 /**
  * Write a description of class Move here.
  * 

@@ -1,4 +1,4 @@
-
+package models;
 /**
  * Enumeration class Type - write a description of the enum class here
  * 
